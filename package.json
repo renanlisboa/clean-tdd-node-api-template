@@ -5,6 +5,9 @@
   "repository": "git@github.com:renanlisboa/clean-tdd-node-api-template.git",
   "author": "renanlisboa <renlp89.developer@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "prepare": "husky install"
+  },
   "devDependencies": {
     "@types/node": "^17.0.23",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
@@ -14,6 +17,8 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^5.2.0",
     "git-commit-msg-linter": "^4.1.1",
+    "husky": "^7.0.4",
+    "lint-staged": "^12.3.7",
     "typescript": "^4.6.3"
   }
 }
