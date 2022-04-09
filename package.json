@@ -1,0 +1,8 @@
+{
+  "name": "clean-tdd-node-api-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:renanlisboa/clean-tdd-node-api-template.git",
+  "author": "renanlisboa <renlp89.developer@gmail.com>",
+  "license": "MIT"
+}
